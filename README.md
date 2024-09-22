@@ -1,8 +1,14 @@
 Alphabet Learning Projector Game for Kids 🎯
 
+----------------------------------------------------------------------------------------------------------------
+
 An interactive projector-based game developed using OpenCV and Python, designed to help school children learn alphabets in a fun and engaging way. Players throw a ball at projected letters, and when a hit is detected, the corresponding letter "pops" with a sound, reinforcing learning through both visual and audio feedback.
 
+----------------------------------------------------------------------------------------------------------------
+
 🚀 Features
+
+---------------------------------------------------------------------------------------------------------------
 
 Interactive Learning: Children can learn the alphabet by interacting with projected letters on a wall or screen.
 
@@ -22,7 +28,11 @@ Python: Backend logic and game control.
 
 Pygame: For playing audio files.
 
+-------------------------------------------------------------------------------------------------------------------------------
+
 📂 Project Structure
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 /project-directory
 
