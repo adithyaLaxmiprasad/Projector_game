@@ -20,7 +20,11 @@ Dynamic Slide Transition: New sets of alphabets are displayed after all current 
 
 Calibration Module: Custom calibration to align the camera with the projected area, ensuring accurate hit detection.
 
+--------------------------------------------------------------------------------------------------------------
+
 🛠️ Technologies Used
+
+---------------------------------------------------------------------------------------------------------------
 
 OpenCV: For real-time image processing and hit detection.
 
