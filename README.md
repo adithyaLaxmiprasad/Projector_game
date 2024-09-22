@@ -18,10 +18,16 @@ Pygame: For playing audio files.
 /project-directory
 │
 ├── main.py                # Main script for running the game
+
 ├── calibration.py         # Calibration module for setting up the camera and projector
+
 ├── display_letters.py     # Module for displaying letters on the slide
+
 ├── audio/                 # Directory containing alphabet sound files
+
 ├── single_alphabets/      # Directory containing alphabet images
+
 ├── bg.png                 # Background image for the slide
+
 ├── calibration_data.npz   # Stores calibration data for projector alignment
 └── README.md              # Project documentation
